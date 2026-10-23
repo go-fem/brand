@@ -5,9 +5,11 @@ Official logos for the **go-fem** organization.
 <img src="avatar/go-fem.png" width="160" alt="go-fem">
 
 The mark is a mesh: a square of 3 x 3 nodes, every cell cut into two triangles, the elements a PDE is solved on. It is written by `mark/main.go`, which lays the points out from a short
-table; nothing is placed by hand. Its gradient (`#B5D23F` to `#5C7A0A`) sets
-go-fem apart from the other go-scikit organizations; its dark end reads on
-white at 4.95:1.
+table; nothing is placed by hand. Its gradient (`#75DC6C` to `#15820B`) is a
+green (hue 115) that sets go-fem apart from the other go-scikit organizations,
+including the blue-green of go-control (142) and the olive of go-autodiff (87);
+its dark end reads on white at 4.96:1 and its light end on a dark page at
+11.25:1.
 
 ## Formats
 
