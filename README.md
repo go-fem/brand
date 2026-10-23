@@ -9,7 +9,7 @@ table; nothing is placed by hand. Its gradient (`#75DC6C` to `#15820B`) is a
 green (hue 115) that sets go-fem apart from the other go-scikit organizations,
 including the blue-green of go-control (142) and the olive of go-autodiff (87);
 its dark end reads on white at 4.96:1 and its light end on a dark page at
-11.25:1.
+11.23:1.
 
 ## Formats
 
